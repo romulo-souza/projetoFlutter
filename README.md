@@ -22,7 +22,7 @@ Este projeto foi desenvolvido baseando-se na Imersão Mobile promovida pela Alur
 ## Interfaces Desenvolvidas
 
 <p><b>Splash Screen</b></p>
-<img src="assets/docs/screenshots/splashScreen.jpeg" alt="Splash Screen" width="300"/>,
+<img src="assets/docs/screenshots/splashScreen.jpeg" alt="Splash Screen" width="300"/>
 
 <br>
 
