@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Descrição do projeto
 
-Este projeto foi desenvolvido baseando-se na Imersão Mobile promovida pela Alura. Trata-se de um aplicativo de restaurantes, permitindo visualizar os estabelecimentos cadastrados, explorar seus respectivos pratos e adicionar pedidos à sacola. Nem todas as funcionalidades estão implementadas, o foco principal foi explorar a **construção de interfaces gráficas com Flutter**, **entender conceitos da linguagem Dart** e, principalmente, trabalhar com o **gerenciamento de estado global utilizando o Provider**. Sendo assim, o projeto pode ser retomado no futuro para possíveis incrementos.
+Este projeto foi desenvolvido baseando-se na Imersão Mobile promovida pela Alura. Trata-se de um aplicativo de restaurantes, permitindo visualizar os estabelecimentos cadastrados, explorar seus respectivos pratos e adicionar pedidos à sacola. Nem todas as funcionalidades estão implementadas e algumas imagens são apenas placeholders, o foco principal foi explorar a **construção de interfaces gráficas com Flutter**, **entender conceitos da linguagem Dart** e, principalmente, trabalhar com o **gerenciamento de estado global utilizando o Provider**. Sendo assim, o projeto pode ser retomado no futuro para possíveis incrementos.
 
 ## Interfaces Desenvolvidas
 
